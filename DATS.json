@@ -75,6 +75,14 @@
 			]
 		},
 		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "CONP"
+				}
+			]
+		},
+		{
 			"category": "logo",
 			"values": [
 				{

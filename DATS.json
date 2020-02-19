@@ -24,7 +24,11 @@
 		        },
 			"access": {
 				"landingPage": "https://bigbrainproject.org",
-				"annotation": "public"
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
 			}
 		}
 	],

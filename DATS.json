@@ -1,1 +1,95 @@
-.git/annex/objects/00/33/MD5E-s2022--943cb1bf93a43762115a8f5a5f34d950.json/MD5E-s2022--943cb1bf93a43762115a8f5a5f34d950.json
+{
+    "title": "BigBrain dataset",
+    "description": "The BigBrain dataset is the result of a collaborative effort between the teams of Dr. Katrin Amunts and Dr. Karl Zilles (Forschungszentrum Jülich) and Dr. Alan Evans (Montreal Neurological Institute). For more information please visit the BigBrain Project website [https://bigbrainproject.org]",
+    
+    "creators": [
+        {
+            "@type": "Organization",
+            "name": "BigBrain project"
+        }
+    ],
+    "types": [
+        { 
+            "value": "histology"
+        }
+    ], 
+    "distributions": [
+	        {
+			"formats": [
+				"MINC"
+            		],
+			"size" : 31.99,
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://bigbrainproject.org"
+			}
+		}
+	],
+    "version": "1.0",
+    "privacy": "Open Access",
+    "isAbout": [
+        {
+            "@type": "BiologicalEntity",
+            "name": "adult human"
+        }
+    ],
+    "licenses": [
+        {
+            "@type": "License",
+            "name": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License"
+        }
+    ],
+    "primaryPublications": [
+        {
+            "@type": "Publication",
+            "title": "BigBrain: an ultrahigh-resolution 3D human brain model",
+            "publicationVenue": "Science",
+            "authorsList": "Amunts, Katrin, et al."
+	}
+    ],
+    "extraProperties": [
+        {
+            "category": "Total number of sessions",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        },
+	{
+			"category": "contact",
+			"values": [
+				{
+					"value": "info@bigbrainproject.org"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "126"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "CONP"
+				}
+			]
+		},
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "logo.png"
+				}
+			]
+		}
+    ]
+}
+

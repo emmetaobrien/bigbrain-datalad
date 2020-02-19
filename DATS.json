@@ -23,7 +23,8 @@
             			"value": "GB"
 		        },
 			"access": {
-				"landingPage": "https://bigbrainproject.org"
+				"landingPage": "https://bigbrainproject.org",
+				"annotation": "public"
 			}
 		}
 	],

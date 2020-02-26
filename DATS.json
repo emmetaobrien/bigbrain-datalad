@@ -1,7 +1,11 @@
 {
     "title": "BigBrain dataset",
     "description": "The BigBrain dataset is the result of a collaborative effort between the teams of Dr. Katrin Amunts and Dr. Karl Zilles (Forschungszentrum Jülich) and Dr. Alan Evans (Montreal Neurological Institute). For more information please visit the BigBrain Project website [https://bigbrainproject.org]",
-    
+    "licenses": [
+		{
+			"name": "CC BY-NC 4.0"
+		}
+	],
     "creators": [
         {
             "@type": "Organization",
@@ -30,6 +34,26 @@
 					}
 				]
 			}
+		}
+	],
+	"keywords": [
+		{
+			"value" : "Brain Histology"
+		},
+		{
+			"value" : "3D Atlas"
+		},
+		{
+			"value" : "Microscopic"
+		},
+		{
+			"value" : "NeuroImaging"
+		},
+		{
+			"value" : "High Resolution"
+		},
+		{
+			"value" : "Human"
 		}
 	],
     "version": "1.0",

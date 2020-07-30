@@ -115,6 +115,14 @@
 			]
 		},
 		{
+			"category": "origin",
+			"values": [
+				{
+					"consortium": "BigBrain project"
+				}
+			]
+		},
+		{
 			"category": "logo",
 			"values": [
 				{

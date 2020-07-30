@@ -62,19 +62,16 @@
     "privacy": "Open Access",
     "isAbout": [
         {
-            "@type": "BiologicalEntity",
             "name": "adult human"
         }
     ],
     "licenses": [
         {
-            "@type": "License",
             "name": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License"
         }
     ],
     "primaryPublications": [
         {
-            "@type": "Publication",
             "title": "BigBrain: an ultrahigh-resolution 3D human brain model",
             "publicationVenue": "Science",
             "authorsList": "Amunts, Katrin, et al."
@@ -89,7 +86,7 @@
                 }
             ]
         },
-	{
+		{
 			"category": "contact",
 			"values": [
 				{

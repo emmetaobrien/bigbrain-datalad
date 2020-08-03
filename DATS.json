@@ -111,10 +111,10 @@
 			]
 		},
 		{
-			"category": "origin",
+			"category": "origin_consortium",
 			"values": [
 				{
-					"consortium": "BigBrain project"
+					"value": "BigBrain project"
 				}
 			]
 		},
